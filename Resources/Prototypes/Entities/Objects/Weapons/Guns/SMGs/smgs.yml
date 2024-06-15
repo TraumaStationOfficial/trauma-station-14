@@ -94,7 +94,7 @@
   - type: Clothing
     sprite: Objects/Weapons/Guns/SMGs/c20r.rsi
   - type: Gun
-    minAngle: 3
+    minAngle: 2
     maxAngle: 16 
     shotsPerBurst: 5
     availableModes:
@@ -127,7 +127,7 @@
     - type: Clothing
       sprite: Objects/Weapons/Guns/SMGs/drozd.rsi
     - type: Gun
-      minAngle: 3
+      minAngle: 2
       maxAngle: 16 
       fireRate: 6
       selectedMode: FullAuto
