@@ -95,7 +95,7 @@
     sprite: Objects/Weapons/Guns/SMGs/c20r.rsi
   - type: Gun
     minAngle: 2
-    maxAngle: 16 
+    maxAngle: 16
     shotsPerBurst: 5
     availableModes:
     - SemiAuto
@@ -128,7 +128,7 @@
       sprite: Objects/Weapons/Guns/SMGs/drozd.rsi
     - type: Gun
       minAngle: 2
-      maxAngle: 16 
+      maxAngle: 16
       fireRate: 6
       selectedMode: FullAuto
       soundGunshot:
